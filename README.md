@@ -9,3 +9,5 @@ To play the game, download all files, and ensure that they are in the same folde
 Ensure that you have Pygame installed and that you are running the program on Python 2.7.
 
 You can download Pygame here: https://www.pygame.org/download.shtml.
+
+I hope you enjoy!
