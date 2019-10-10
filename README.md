@@ -1,4 +1,4 @@
-# floppy-penguin
+# Floppy Penguin
 
 Floppy Bird is a game I created in Pygame / Python 2.7. 
 
